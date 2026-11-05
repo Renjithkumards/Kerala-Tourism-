@@ -22,28 +22,7 @@ export const foods: FoodItem[] = [
     ],
     mustTryPlace: "Traditional Onam celebrations or iconic vegetarian restaurants in Trivandrum & Thrissur.",
     spiceLevel: "Medium",
-    image: "https://images.unsplash.com/photo-1610057099431-d73a1c9d2f2f?auto=format&fit=crop&w=1000&q=80",
-    featured: true
-  },
-  {
-    id: "appam-and-stew",
-    slug: "appam-and-stew",
-    name: "Appam and Stew",
-    malayalamName: "അപ്പവും ഇഷ്‌ടൂവും",
-    category: "Breakfast",
-    dietary: "Vegetarian",
-    description: "A beloved Syrian Christian breakfast tradition. Appams are delicate bowl-shaped fermented rice and coconut milk pancakes with soft, spongy centres and lacy, crisp edges, paired with a silky, aromatic coconut milk vegetable or chicken stew flavored with whole spices.",
-    keyIngredients: [
-      "Fermented rice batter with coconut milk",
-      "Toddy / Yeast leavening",
-      "Potatoes, carrots & green peas",
-      "Fresh coconut milk (first & second extract)",
-      "Cardamom, cinnamon, cloves & curry leaves",
-      "Slit green chilies & ginger"
-    ],
-    mustTryPlace: "Heritage homestays in Kottayam, Fort Kochi cafes, and local breakfast tea shops across Central Kerala.",
-    spiceLevel: "Mild",
-    image: "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1625398407796-82650a8c135f?auto=format&fit=crop&w=1000&q=80",
     featured: true
   },
   {
@@ -64,7 +43,7 @@ export const foods: FoodItem[] = [
     ],
     mustTryPlace: "Local roadside 'Thattukada' eateries and traditional breakfast messes across Kerala.",
     spiceLevel: "Medium",
-    image: "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1560260330-727f7f5c0277?auto=format&fit=crop&w=1000&q=80",
     featured: true
   },
   {
@@ -104,7 +83,8 @@ export const foods: FoodItem[] = [
     ],
     mustTryPlace: "Night Thattukadas across Kochi, Trivandrum, and Thrissur roundabouts.",
     spiceLevel: "Mild",
-    image: "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=1000&q=80",
+    // Photo: "KeralaPorotta.JPG" by Shijaz Abdulla, public domain (Wikimedia Commons). Hosted locally in /public.
+    image: "/images/food/kerala-parotta.jpg",
     featured: true
   },
   {
@@ -124,7 +104,7 @@ export const foods: FoodItem[] = [
     ],
     mustTryPlace: "Lakeside toddy parlors in Kumarakom and coastal seafood dhabas in Alleppey.",
     spiceLevel: "Spicy",
-    image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1620894580123-466ad3a0ca06?auto=format&fit=crop&w=1000&q=80",
     featured: true
   },
   {
@@ -144,7 +124,7 @@ export const foods: FoodItem[] = [
     ],
     mustTryPlace: "Backwater houseboats in Alappuzha, Kumarakom resorts, and Vembanad shoreline shacks.",
     spiceLevel: "Spicy",
-    image: "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1786222084052-fb6f27bfb135?auto=format&fit=crop&w=1000&q=80",
     featured: false
   },
   {
@@ -163,7 +143,7 @@ export const foods: FoodItem[] = [
     ],
     mustTryPlace: "Fresh oil frying stalls along Calicut Mittayi Theruvu (SM Street) and Broadway in Ernakulam.",
     spiceLevel: "Mild",
-    image: "https://images.unsplash.com/photo-1599490659213-e2b9527bd087?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1762884601729-0eeeafbdfb8a?auto=format&fit=crop&w=1000&q=80",
     featured: false
   },
   {
@@ -183,27 +163,7 @@ export const foods: FoodItem[] = [
     ],
     mustTryPlace: "Famous temple prasadam in Ambalapuzha, festive caterers in Thrissur and Kottayam.",
     spiceLevel: "Mild",
-    image: "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=1000&q=80",
-    featured: false
-  },
-  {
-    id: "unniyappam",
-    slug: "unniyappam",
-    name: "Unniyappam",
-    malayalamName: "ഉണ്ണിയപ്പം",
-    category: "Snacks",
-    dietary: "Vegetarian",
-    description: "Small, spherical sweet fritters made with ground roasted rice, ripe small bananas (Palayankodan), melted dark jaggery, toasted sesame seeds, and crunchy coconut bits fried in ghee in an appakarai cast iron mold until dark brown and crisp outside, yet moist inside.",
-    keyIngredients: [
-      "Roasted rice flour & mashed ripe bananas",
-      "Organic Marayoor jaggery syrup",
-      "Toasted black sesame seeds",
-      "Fried small coconut bits (Kothukottu)",
-      "Pounded dry ginger (Chukku) & cardamom"
-    ],
-    mustTryPlace: "Kottarakkara Ganapathy Temple counters and roadside tea stalls across Travancore.",
-    spiceLevel: "Mild",
-    image: "https://images.unsplash.com/photo-1505253758473-96b3015f21c9?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1777613112969-d7511ddfbe15?auto=format&fit=crop&w=1000&q=80",
     featured: false
   }
 ];

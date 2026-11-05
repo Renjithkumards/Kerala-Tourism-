@@ -10,11 +10,7 @@ export const metadata: Metadata = {
     template: "%s | Explore Kerala",
   },
   description:
-<<<<<<< HEAD
     "Your complete travel guide to Kerala, India. Discover iconic destinations like Munnar, Alleppey backwaters, Wayanad and Kochi, authentic Kerala Sadya food, luxury houseboats, and curated 3-8 day holiday tour packages.",
-=======
-    "Official travel guide to Kerala, India. Discover iconic destinations like Munnar, Alleppey backwaters, Wayanad and Kochi, authentic Kerala Sadya food, luxury houseboats, and curated 3-8 day holiday tour packages.",
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
   keywords: [
     "Kerala Tourism",
     "God's Own Country",

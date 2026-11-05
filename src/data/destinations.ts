@@ -9,11 +9,7 @@ export const destinations: Destination[] = [
     tagline: "Rolling tea plantations, misty mountains, and cool hill breezes",
     category: "Hill Stations",
     district: "Idukki",
-<<<<<<< HEAD
     image: "https://images.unsplash.com/photo-1491497895121-1334fc14d8c9?auto=format&fit=crop&w=1200&q=80",
-=======
-    image: "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?auto=format&fit=crop&w=1200&q=80",
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
     rating: 4.9,
     reviewsCount: 3420,
     idealDuration: "3-4 Days",
@@ -115,11 +111,7 @@ export const destinations: Destination[] = [
     tagline: "Pristine rain forests, ancient prehistoric caves, and spice plantations",
     category: "Wildlife & Nature",
     district: "Wayanad",
-<<<<<<< HEAD
     image: "https://images.unsplash.com/photo-1630938819488-ba7d1440d48b?auto=format&fit=crop&w=1200&q=80",
-=======
-    image: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1200&q=80",
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
     rating: 4.8,
     reviewsCount: 2950,
     idealDuration: "3-4 Days",
@@ -153,11 +145,7 @@ export const destinations: Destination[] = [
     tagline: "Dense wilderness, boat safaris on Periyar Lake, and spice walk trails",
     category: "Wildlife & Nature",
     district: "Idukki",
-<<<<<<< HEAD
     image: "https://images.unsplash.com/photo-1765635311503-c314839cbcdf?auto=format&fit=crop&w=1200&q=80",
-=======
-    image: "https://images.unsplash.com/photo-1616843413587-9e3a37f7bbd8?auto=format&fit=crop&w=1200&q=80",
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
     rating: 4.7,
     reviewsCount: 2640,
     idealDuration: "2 Days",
@@ -361,11 +349,7 @@ export const destinations: Destination[] = [
     tagline: "Thunderous 80-foot cascades plunging through dense Western Ghat jungles",
     category: "Waterfalls",
     district: "Thrissur",
-<<<<<<< HEAD
     image: "https://images.unsplash.com/photo-1633037499870-d105eb8b1daf?auto=format&fit=crop&w=1200&q=80",
-=======
-    image: "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?auto=format&fit=crop&w=1200&q=80",
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
     rating: 4.8,
     reviewsCount: 2980,
     idealDuration: "1-2 Days",
@@ -399,11 +383,7 @@ export const destinations: Destination[] = [
     tagline: "Sacred night temple rituals, drive-in beach, and historic sea forts",
     category: "Heritage & Culture",
     district: "Kannur",
-<<<<<<< HEAD
     image: "https://images.unsplash.com/photo-1714645818805-da5adaca356a?auto=format&fit=crop&w=1200&q=80",
-=======
-    image: "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?auto=format&fit=crop&w=1200&q=80",
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
     rating: 4.7,
     reviewsCount: 1610,
     idealDuration: "2-3 Days",

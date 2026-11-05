@@ -141,6 +141,8 @@ export interface SiteConfig {
   name: string;
   tagline: string;
   phone: string;
+  alternatePhone?: string;
+  contactPerson?: string;
   whatsappNumber: string;
   email: string;
   address: string;

@@ -1,15 +1,11 @@
 import React from "react";
-<<<<<<< HEAD
 import Image from "next/image";
-=======
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
 
 export const HeroSection: React.FC = () => {
   return (
     <section className="relative min-h-[85vh] sm:min-h-[88vh] flex items-center justify-center overflow-hidden bg-kerala-950 text-white">
       {/* Background Image with optimized readability gradient */}
       <div className="absolute inset-0 z-0">
-<<<<<<< HEAD
         <Image
           src="https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=2200&q=85"
           alt="Alleppey Backwaters Kerala Houseboat"
@@ -17,12 +13,6 @@ export const HeroSection: React.FC = () => {
           priority
           className="object-cover object-center"
           sizes="100vw"
-=======
-        <img
-          src="https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?auto=format&fit=crop&w=2200&q=85"
-          alt="Alleppey Backwaters Kerala Houseboat"
-          className="w-full h-full object-cover object-center"
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
         />
         {/* Deep emerald and dark overlay for text contrast and premium feel */}
         <div className="absolute inset-0 bg-gradient-to-t from-kerala-950/90 via-kerala-950/50 to-black/40" />

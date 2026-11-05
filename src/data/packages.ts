@@ -41,7 +41,7 @@ export const packages: TourPackage[] = [
         desc: "Enjoy breakfast overlooking the mist. Check out and drive back to Cochin for drop-off at airport or station with cherished mountain memories."
       }
     ],
-    image: "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1637066742971-726bee8d9f56?auto=format&fit=crop&w=1000&q=80",
     featured: true
   },
   {
@@ -89,7 +89,7 @@ export const packages: TourPackage[] = [
         desc: "Morning guided spice walk. Check-out and return journey to Cochin for your onward connection."
       }
     ],
-    image: "https://images.unsplash.com/photo-1616843413587-9e3a37f7bbd8?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1716404985743-8c0e007cb358?auto=format&fit=crop&w=1000&q=80",
     featured: true
   },
   {
@@ -200,7 +200,7 @@ export const packages: TourPackage[] = [
         desc: "Final souvenir shopping for Kerala banana chips and spices, followed by airport transfer."
       }
     ],
-    image: "https://images.unsplash.com/photo-1544735716-392fe2489ffa?auto=format&fit=crop&w=1000&q=80",
+    image: "https://images.unsplash.com/photo-1558971499-9b0683596aa2?auto=format&fit=crop&w=1000&q=80",
     featured: true
   },
   {

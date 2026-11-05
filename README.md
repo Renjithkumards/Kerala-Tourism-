@@ -17,7 +17,7 @@ A modern travel guide website for Kerala, India, built with **Next.js 14**, **Ty
 ## ✨ Features
 
 - **Kerala Destinations** — Munnar, Alleppey, Wayanad, Kochi, Varkala & more
-- **Kerala Food** — 10 authentic dishes with filters (Vegetarian, Non-Veg, Breakfast, Dessert...)
+- **Kerala Food** — 8 authentic dishes with filters (Vegetarian, Non-Veg, Breakfast, Dessert...)
 - **Stays** — Curated houseboats, resorts, and homestays
 - **Tour Packages** — 3–8 day curated holiday packages
 - **WhatsApp Integration** — Central config, floating FAB, contextual enquiry buttons

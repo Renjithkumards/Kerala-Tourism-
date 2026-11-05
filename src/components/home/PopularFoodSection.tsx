@@ -31,7 +31,7 @@ export const PopularFoodSection: React.FC = () => {
               href="/food"
               className="inline-flex items-center gap-2 text-sm font-semibold text-kerala-800 hover:text-kerala-600 group transition-colors"
             >
-              <span>View all 10 Kerala dishes</span>
+              <span>View all {foods.length} Kerala dishes</span>
               <ArrowRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
             </Link>
           </div>

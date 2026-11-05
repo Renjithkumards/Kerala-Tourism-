@@ -4,18 +4,16 @@ import { WHATSAPP_NUMBER, getCleanWhatsAppNumber } from "@/config/contact";
 export const siteConfig: SiteConfig = {
   name: "Explore Kerala",
   tagline: "Discover God's Own Country",
-  phone: "+91 94470 12345",
+  phone: "+91 80758 45306",
+  alternatePhone: "+91 89217 61681",
+  contactPerson: "Jojo Fencer",
   whatsappNumber: getCleanWhatsAppNumber(WHATSAPP_NUMBER),
   email: "trips@explorekerala.travel",
-  address: "Tourism Information Centre, Park View, Thiruvananthapuram, Kerala 695033",
+  address: "Fencervilla Tours & Travels, Keechapilly Building (167), Anachal, Munnar, Kerala",
   touristHelpline: "1800-425-4747 (24x7 Toll Free)",
   social: {
     instagram: "https://instagram.com/keralatourism",
-<<<<<<< HEAD
-    facebook: "https://facebook.com/keralatourism",
-=======
     facebook: "https://facebook.com/keralatourismofficial",
->>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
     youtube: "https://youtube.com/keralatourism",
     twitter: "https://twitter.com/keralatourism",
   },
