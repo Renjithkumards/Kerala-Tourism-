@@ -12,6 +12,11 @@ export const navLinks = [
   { name: "Home", href: "/" },
   { name: "Destinations", href: "/destinations" },
   { name: "Food", href: "/food" },
+<<<<<<< HEAD
+=======
+  { name: "Stays", href: "/stays" },
+  { name: "Packages", href: "/packages" },
+>>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
   { name: "About", href: "/about" },
   { name: "Contact", href: "/contact" },
 ];
@@ -78,25 +83,41 @@ export const Navbar: React.FC = () => {
             })}
           </nav>
 
+<<<<<<< HEAD
           {/* Right Action Buttons — exactly one WhatsApp button is visible at any width */}
           <div className="flex items-center gap-2 shrink-0">
             {/* Full-label button: only from lg up, where there is room so the label never wraps */}
+=======
+          {/* Right Action Buttons */}
+          <div className="hidden sm:flex items-center gap-3">
+>>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
             <WhatsAppButton
               message={WHATSAPP_MESSAGES.general}
               variant="primary"
               size="sm"
+<<<<<<< HEAD
               className="hidden lg:inline-flex whitespace-nowrap"
             >
               Plan on WhatsApp
             </WhatsAppButton>
 
             {/* Icon-only button: phones and tablets (below lg) */}
+=======
+            >
+              Plan on WhatsApp
+            </WhatsAppButton>
+          </div>
+
+          {/* Mobile Menu & WhatsApp Button */}
+          <div className="flex items-center gap-2 md:hidden">
+>>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
             <WhatsAppButton
               message={WHATSAPP_MESSAGES.general}
               variant="primary"
               size="sm"
               iconOnly
               aria-label="Chat on WhatsApp"
+<<<<<<< HEAD
               className="lg:hidden rounded-xl min-w-[40px] min-h-[40px]"
             />
 
@@ -105,6 +126,15 @@ export const Navbar: React.FC = () => {
               type="button"
               onClick={() => setMobileNavOpen(true)}
               className="md:hidden p-2 min-w-[40px] min-h-[40px] flex items-center justify-center rounded-xl text-gray-700 hover:text-gray-900 hover:bg-gray-100 transition-colors"
+=======
+              className="rounded-xl min-w-[40px] min-h-[40px]"
+            />
+
+            <button
+              type="button"
+              onClick={() => setMobileNavOpen(true)}
+              className="p-2 min-w-[40px] min-h-[40px] flex items-center justify-center rounded-xl text-gray-700 hover:text-gray-900 hover:bg-gray-100 transition-colors"
+>>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
               aria-label="Open navigation menu"
             >
               <Menu className="w-6 h-6" />

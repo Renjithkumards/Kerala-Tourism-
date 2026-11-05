@@ -11,7 +11,11 @@ export const siteConfig: SiteConfig = {
   touristHelpline: "1800-425-4747 (24x7 Toll Free)",
   social: {
     instagram: "https://instagram.com/keralatourism",
+<<<<<<< HEAD
     facebook: "https://facebook.com/keralatourism",
+=======
+    facebook: "https://facebook.com/keralatourismofficial",
+>>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
     youtube: "https://youtube.com/keralatourism",
     twitter: "https://twitter.com/keralatourism",
   },

@@ -1,5 +1,8 @@
 import React from "react";
+<<<<<<< HEAD
 import Image from "next/image";
+=======
+>>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
 import { Phone } from "lucide-react";
 import { siteConfig } from "@/data/siteConfig";
 import { WhatsAppButton } from "@/components/ui/WhatsAppButton";
@@ -10,6 +13,7 @@ export const CtaSection: React.FC = () => {
     <section className="relative py-20 sm:py-24 bg-kerala-900 text-white overflow-hidden">
       {/* Background Image with optimized dark overlay */}
       <div className="absolute inset-0 z-0 opacity-15">
+<<<<<<< HEAD
         <Image
           src="https://images.unsplash.com/photo-1596176530529-78163a4f7af2?auto=format&fit=crop&w=2200&q=80"
           alt="Munnar Tea Hills Kerala"
@@ -17,6 +21,12 @@ export const CtaSection: React.FC = () => {
           priority
           className="object-cover object-center"
           sizes="100vw"
+=======
+        <img
+          src="https://images.unsplash.com/photo-1596176530529-78163a4f7af2?auto=format&fit=crop&w=2200&q=80"
+          alt="Munnar Tea Hills Kerala"
+          className="w-full h-full object-cover object-center"
+>>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
         />
       </div>
       <div className="absolute inset-0 bg-gradient-to-r from-kerala-950 via-kerala-900/95 to-emerald-950/90 z-0" />
@@ -59,7 +69,11 @@ export const CtaSection: React.FC = () => {
         </div>
 
         <p className="mt-6 text-xs text-emerald-200/70">
+<<<<<<< HEAD
           Kerala Tourist Helpline:{" "}
+=======
+          Kerala Tourism 24x7 Official Helpline:{" "}
+>>>>>>> 4d5ab567f314f6cf0228b5963c63f98c31376951
           <strong className="text-white">{siteConfig.touristHelpline}</strong>
         </p>
       </div>
